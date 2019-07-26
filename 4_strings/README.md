@@ -3,11 +3,11 @@
 
 ## Материалы
 
-[https://informatics.msk.ru/mod/statements/view3.php?id=3863&chapterid=3735](Контест)
+[Контест](https://informatics.msk.ru/mod/statements/view3.php?id=3863&chapterid=3735)
 
-[http://pythontutor.ru/lessons/str/](Теория на python tutroe)
+[Теория на python tutor](http://pythontutor.ru/lessons/str/)
 
-[mini_test.md](Минитест который писали на занятии)
+[Минитест который писали на занятии](mini_test.md)
 
 
 
